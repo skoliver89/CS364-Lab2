@@ -14,6 +14,8 @@ Grouping Rows in Select Statement <br />
 2.5)  We have had a fire in the Seattle warehouse.  Show the WarehouseID, SKU, SKU_Description, and QuantityOnHand for all items not in the Seattle warehouse.  The final list should be ordered by WarehouseID then SKU. <br />
 2.6)  What total quantity of items were sold in December 2014? <br />
 2.7)  Give the Description of items sold in December 2014. <br />
+
+Student provided Nested Queries challenge questions <br />
 2.8)  Launia Davis Nested Queries – extra credit challenge <br />
 Show the SKU Descriptions and the Department names from the SKU_DATA table where the buyer is either Pete or Cindy. Use a nested query to solve this problem <br />
 2.9)  Jake Hatfield CS364 Spring 2017 SQL Nested Query Challenge <br />
